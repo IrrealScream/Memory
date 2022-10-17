@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.controls .pairs {
+  display : inline-block;
+  width : 64px;
+  text-align : center
+}
+
+.controls div {
+  display : inline-block;
+  width : 33%;
+  text-align : center;
+}
